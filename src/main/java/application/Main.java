@@ -1,6 +1,5 @@
 package application;
 
-
 import services.PrintService;
 
 import java.util.Scanner;
