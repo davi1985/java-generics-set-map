@@ -8,6 +8,11 @@ public class Main3 {
         List<Integer> listNumbers = Arrays.asList(5, 2, 10);
 
         printList(listNumbers);
+        System.out.println();
+
+        List<String> guitarHeroes = Arrays.asList("Steve Vai", "Joe Satriani", "John Petrucci");
+
+        printList(guitarHeroes);
     }
 
     private static void printList(List<?> list) {
